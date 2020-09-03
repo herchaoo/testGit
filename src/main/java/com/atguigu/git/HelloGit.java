@@ -10,5 +10,6 @@ public class HelloGit {
 		System.out.println("master第10行");
 		System.out.println("dev第10行");
 		System.out.println("第2次提交之前更新");
+		System.out.println("在线更新");
 	}
 }
