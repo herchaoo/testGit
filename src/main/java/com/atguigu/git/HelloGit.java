@@ -6,5 +6,6 @@ public class HelloGit {
 		System.out.println("更新1");
 		System.out.println("创建分支dev后更新HelloGit.java");
 		System.out.println("master添加");
+		System.out.println("dev添加");
 	}
 }
